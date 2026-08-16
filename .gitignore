@@ -31,3 +31,9 @@ Thumbs.db
 
 # Claude Code local settings
 .claude/settings.local.json
+
+# Stale duplicate project folder, superseded by "LazyRiver 5.8"
+/LazyRiver/
+
+# Oversized backup/export zip - exceeds GitHub's 100MB file limit
+LazyRiver.zip
